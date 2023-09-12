@@ -1,1 +1,1 @@
-# Sidestore
+# Sidestore.ipa
